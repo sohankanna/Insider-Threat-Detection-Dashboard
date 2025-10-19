@@ -83,7 +83,7 @@ The dashboard revealed a compelling story.
     *   Microsoft Power BI Desktop
 2.  **Clone the repository:**
     ```bash
-    git clone https://github.com/[YourUsername]/Insider-Threat-Detection-Dashboard.git
+    git clone https://github.com/sohankanna/Insider-Threat-Detection-Dashboard.git
     ```
 3.  **Data Source:**
     *   Download the CERT Insider Threat Dataset (r4.2) from an official source (e.g., Kaggle or Carnegie Mellon).
